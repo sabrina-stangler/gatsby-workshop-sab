@@ -17,7 +17,7 @@ export default function footer() {
 
           <p>
             <a
-              href="https://monica.dev/gatsbyworkshop"
+              href="https://github.com/sabrina-stangler"
               className="text-gray-700 hover:text-gray-500 no-underline "
               target="_blank"
               rel="noopener noreferrer"
