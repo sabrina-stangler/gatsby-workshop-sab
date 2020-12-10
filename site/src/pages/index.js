@@ -7,9 +7,9 @@ import sketchnoting from "../images/taking-notes.svg";
 const Hero = () => (
   <div className="text-center">
     <h1 className="text-5xl font-extrabold text-blue-500 leading-9 tracking-tight font-inter">
-      October 7th, 2020
+      Sabrina's Super Rad
       <br />
-      Cyberspace
+      Website All About Sabrina
     </h1>
     <br />
     <div className="grid grid-cols-6 gap-4">
@@ -18,19 +18,18 @@ const Hero = () => (
       </div>
       <div className="text-lg text-gray-700 col-span-6 sm:col-span-6 md:col-span-2 lg:col-span-2 xl:col-span-2...">
         <h2 className="text-3xl font-bold text-gray-800 leading-8 tracking-tight">
-          Join Us!
+          Join Me
         </h2>{" "}
-        We're looking forward to gathering virtually in October 2020 for our
-        inaugural conference! Below you can find our schedule and learn more
-        about our dynamic lineup. Be sure to secure a ticket before we sell out
-        as tickets are limited.
+        Welcome to this landing page that serves as a little snapshot of what
+        I'm up to including content I make, work history, and things I find
+        interesting.
       </div>
     </div>
     <br />
     <h2 className="text-5xl font-extrabold text-blue-500 leading-9 tracking-tight font-inter">
-      Schedule
+      Table of Contents
     </h2>
-    Placeholder Text!
+    // TODO
   </div>
 );
 

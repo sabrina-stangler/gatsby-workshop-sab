@@ -1,8 +1,8 @@
 /*eslint no-template-curly-in-string:0*/
 module.exports = {
   siteMetadata: {
-    title: `Sabrina's RAD Conf 2020`,
-    description: `This is a website for my super sick conference.`,
+    title: `Sabrina's RAD Website`,
+    description: `This is a website for all things Sabrina.`,
     author: `@you`,
     siteUrl: `https://sad-bell-818b0c.netlify.app`,
   },
